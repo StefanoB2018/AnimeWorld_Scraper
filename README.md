@@ -17,11 +17,11 @@ Pubblished in 24/03/2023
   pip install fake-useragent
   pip install beautifulsoup4
   ```
-+ Retrieve working proxies from any source and put them in `http.txt`:
++ Retrieve working proxies from any source and put them in `http.txt` (proxies formatted as the image below):
 
     ![https.txt](https://i.imgur.com/CyXjBg8.png)
   
-    [get proxies here](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)
+    [get proxies here (recommended)](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)
     
 ## How to use?
 1. Run `webscraping.py`
