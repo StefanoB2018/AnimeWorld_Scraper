@@ -1,2 +1,2 @@
 # AnimeWorld_Scraper
-Italian anime website video extraction tool.
+Italian anime website video extraction script.
