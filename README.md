@@ -18,10 +18,10 @@ Pubblished in 24/03/2023
   pip install beautifulsoup4
   ```
 + Retrieve working proxies from any source and put them in `http.txt`:
+    ![https.txt](https://i.imgur.com/CyXjBg8.png)
   
     [get proxies here](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)
     
-    ![https.txt with proxies(image)](https://i.imgur.com/CyXjBg8.png)
 ## How to use?
 1. Run `webscraping.py`
 2. Insert link
