@@ -29,4 +29,5 @@ Pubblished in 24/03/2023
 3. Insert Episode
 4. Download
 5. Retrieve the videos downloaded from `Scrap\folder`
+
 (Sometimes the downloaded videos are not named based on the series title and need to be renamed manually)
