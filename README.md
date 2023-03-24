@@ -21,7 +21,7 @@ Pubblished in 24/03/2023
 
     ![https.txt](https://i.imgur.com/CyXjBg8.png)
   
-    [get proxies here (recommended)](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)
+    [get proxies here (recommended) ](https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt)
     
 ## How to use?
 1. Run `webscraping.py`
