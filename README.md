@@ -1,5 +1,6 @@
 # AnimeWorld_Scraper
 Italian anime website video extraction script.
+
 Pubblished in 24/03/2023
 
 ## Setup
