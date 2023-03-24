@@ -25,7 +25,7 @@ Pubblished in 24/03/2023
     
 ## How to use?
 1. Run `webscraping.py`
-2. Insert link
+2. [Insert link (with image) ](https://imgur.com/a/QhZXyM4)
 3. Insert Episode
 4. Download
 5. Retrieve the videos downloaded from `Scrap\folder`
